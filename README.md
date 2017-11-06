@@ -4,6 +4,8 @@
 
 ## Theme Setting method - テーマの設定方法
 
+Donwload "Material Black.terminal".
+
 Click Image.
 
 [![](http://img.youtube.com/vi/zBK34oHMU1c/0.jpg)](https://youtu.be/zBK34oHMU1c)
