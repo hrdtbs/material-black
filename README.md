@@ -8,9 +8,23 @@ Click Image.
 
 [![](http://img.youtube.com/vi/zBK34oHMU1c/0.jpg)](https://youtu.be/zBK34oHMU1c)
 
-##  + Custmize
+##  My Custmize
 
-<script src="https://gist.github.com/jirolabo/000792117b22faafeabb.js"></script>
+
+bash_profile
 ```
+$ export PS1="\[\033[36m\]\u\[\033[m\]@:\[\033[33;1m\]\w\[\033[m\]\$ "
+$ export CLICOLOR=1
 $ export LSCOLORS=ExFxBxDxCxegedabagacad
+$ alias ls='ls -GFh'
 ```
+
+### What is this?
+
+[export PS1="..."](https://gist.github.com/hrdtbs/e5327525f84cf3fa9efb7f33ae44bab6#file-ps1-md)
+
+[export CLICOLOR=1](https://gist.github.com/hrdtbs/e5327525f84cf3fa9efb7f33ae44bab6#file-clicolors-md)
+
+[export LSCOLORS=...](https://gist.github.com/hrdtbs/e5327525f84cf3fa9efb7f33ae44bab6#file-lscolors-md)
+
+[alias ls='ls -GFh'](https://gist.github.com/hrdtbs/e5327525f84cf3fa9efb7f33ae44bab6#file-ls-gfh-md)
